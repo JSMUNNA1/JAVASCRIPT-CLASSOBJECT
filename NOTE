@@ -1,0 +1,11 @@
+- Class:
+  - Overview & Syntax
+  - Use of constructor in class
+  - Class methods (constructor, static, Prototypes Type methods)
+  - Classing with extends
+  - Super class overview and use case
+  - Hoisting in class
+  - Making bound methods with class field
+    1 -> by passing wrapper function.
+    2 -> by binding the method to object.
+    3 ->Using Arrow Function
